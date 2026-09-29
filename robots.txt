@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.mmozlml.cn/sitemap.xml
